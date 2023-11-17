@@ -1,5 +1,10 @@
 # Proyecto Individual - 02-Telecomunicaciones #
 
+ ![image](https://www.laizquierdadiario.com/IMG/arton151554.jpg?1584401083) 
+
+
+
+
 ## Introducción⚠️🚧##
 
 Este proyecto se realizó simulando ser un Analista de Datos de una empresa prestadora de servicios de telecomunicaciones; que me encarga  la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considerando que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
