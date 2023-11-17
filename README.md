@@ -50,6 +50,16 @@ Este grafico se busca establecer una relacion entre los accesos a internet y los
 
 Al comparar los ingresos por servicios de telecomunicaciones notamos el aumento sostenido en todos los servicios resaltando los ingresos por telefonia movil seguido por los de internet y Tv por suscripcion estando estos dos ultimos ligados a la tecnologia Cable Modem que pudimos apreciar su crecimiento a lo largo del periodo estudiado, con relacion a los ingresos por telofinia movil se resalta que. En el cuarto trimestre de 2022, se registró que el 62,6% de los hogares urbanos tiene acceso a computadora y el 92,1% a internet. Además, los datos muestran que, en la Argentina, 89 de cada 100 personas usan teléfono celular y 88 de cada 100 utilizan internet. Esto segun datos del Instituto Nacional de Estadistica y Censo (INDEC).
 
+Indicadores de Rendimiento Clave KPI⛔
+Una vez finalizado el Análisis Exploratorio, se utiliza los dataset 
+Propuestas de KPI
+
+incremento de 2% trimestral cada 100 hogares:este KPI me permitiría ver cómo ha cambiado la penetración de internet en los hogares a lo largo del tiempo.
+
+Irecimiento de tecnologias: Este KPI mide el crecimiento en el uso de diferentes tecnologías de internet en Argentina, esto me permitiría ver cómo está evolucionando la infraestructura de internet en la región.
+
+
+
 
 
 
