@@ -1,9 +1,11 @@
-Proyecto Individual - 02-Telecomunicaciones
-Introducción⚠️🚧
+# Proyecto Individual - 02-Telecomunicaciones #
+
+## Introducción⚠️🚧##
+
 Este proyecto se realizó simulando ser un Analista de Datos de una empresa prestadora de servicios de telecomunicaciones; que me encarga  la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considerando que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
 
-Para cumplir con ello, los datos iniciales que se utilizan son derivados de un dataset con información sobre homicidios de siniestro viales en la Ciudad de Buenos Aires, durante los años 2016-2021, que es de píblico acceso en la página oficial de CABA. Podemos acceder a ellos desde Datos oficiales
+Para cumplir con ello, los datos iniciales que se utilizan son derivados de  [Data](https://datosabiertos.enacom.gob.ar/dashboards/20000/acceso-a-internet/),  
 
 Contexto⚠️🚧
 Las telecomunicaciones en Argentina experimentaron un crecimiento significativo en las últimas décadas. El aumento en la demanda de servicios de comunicación, como telefonía móvil e internet, contribuyó a la expansión del mercado. Dicha expansion a contibuido a que las empresas prestadoras de servicios inviertieran en infraestructura, implementaran tecnologias y de esta forma ofrecer mayor y mejor calidad de servicio a sus usuarios.
