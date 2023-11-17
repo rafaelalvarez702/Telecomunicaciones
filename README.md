@@ -1,5 +1,10 @@
 # Proyecto Individual - 02-Telecomunicaciones #
 
+ ![image](https://www.laizquierdadiario.com/IMG/arton151554.jpg?1584401083) 
+
+
+
+
 ## Introducción⚠️🚧##
 
 Este proyecto se realizó simulando ser un Analista de Datos de una empresa prestadora de servicios de telecomunicaciones; que me encarga  la realización de un análisis completo que permita reconocer el comportamiento de este sector a nivel nacional. Considerando que la principal actividad de la empresa es brindar acceso a internet, pero también es importante considerar el comportamiento asociado al resto de los servicios de comunicación, con el fin de orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
@@ -13,12 +18,14 @@ Las telecomunicaciones en Argentina experimentaron un crecimiento significativo 
 
 Desarrollo⚠️🚧
 Datos⛔
-Para este proyecto se trabajó con la API de ENACOM, para extraer los datos pero dado que la API prsentaba muchos errores a la hora de descargar la informacion los datos se extrajeron directo de la Página oficial de ENACOM en formato csv y exel. 
+Para este proyecto se trabajó con la API de ENACOM, para extraer los datos pero dado que la API prsentaba muchos errores a la hora de descargar la informacion los datos se extrajeron directo de la Página oficial de ENACOM en formato csv y exel. Dataset usados en ETL  [Data](https://github.com/rafaelalvarez702/Telecomunicaciones/tree/main/Datos),  
+
 
 
 - Proceso de ETL (Extracción, limpieza y carga de datos)se realiza la extracción y limpieza de los datos de los dos dataset obtenidos, a través de la utilización de Pandas y Jupyter Netbook. ETL Eliminando nulos, duplicados, con transformaciones necesarias como cambio en los tipos de datos, eliminación de columnas y unión de las tablas.
 
-- Proceso de EDA (Análisis Exploratorio de los datos)una vez que los datos están limpios, es momento de revisar las relaciones que existen entre las variables numéricas y categóricas de los datasets, encontrar si hay presencia de valores atípicos o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior. EDA
+- Proceso de EDA (Análisis Exploratorio de los datos)una vez que los datos están limpios, es momento de revisar las relaciones que existen entre las variables numéricas y categóricas de los datasets, encontrar si hay presencia de valores atípicos o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior.
+- Datos para el EDA [Data](https://github.com/rafaelalvarez702/Telecomunicaciones/tree/main/Datos_EDA),
 
 Análisis de los datos⛔
 
@@ -62,7 +69,9 @@ Irecimiento de tecnologias: Este KPI mide el crecimiento en el uso de diferentes
 
 
 
+TECNOLOGIAS
 
+![image](https://camo.githubusercontent.com/c55baa119025272015a13e035fdac21ae2544b47d9665dbb0b1a93c84ecb7290/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d677261793f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465) ![image](https://camo.githubusercontent.com/143df000a83ba7f1665291aa3fdd254e45dddc7cbf66d63de15812fdbde36058/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d677261793f7374796c653d666c6174266c6f676f3d707974686f6e)  ![image](https://camo.githubusercontent.com/57993a245c1274cffe366ddfaef93531703703054eaa61537eaed81321108042/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d50616e6461732d677261793f7374796c653d666c6174266c6f676f3d70616e646173)  ![image](https://camo.githubusercontent.com/eb5d415b3d9f118a1c9843eb049dfd1056338a73f111214ce9c58124ae57bbfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174706c6f746c69622d677261793f7374796c653d666c6174266c6f676f3d6d6174706c6f746c6962)  ![image](https://camo.githubusercontent.com/9ae48c517d741418d94644ac5882fa685887e67e1615619923c3b8f5a76f992c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d536561626f726e2d677261793f7374796c653d666c6174266c6f676f3d736561626f726e)  ![image](https://camo.githubusercontent.com/f8f5b2906137b37b7b36acaefa95de0c12a137483a508fe319f3a30844dbf6fe/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657242492d677261793f7374796c653d666c6174266c6f676f3d706f7765726269) 
 
 
 
