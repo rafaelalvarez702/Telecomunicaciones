@@ -22,7 +22,7 @@ Para este proyecto se trabajó con la API de ENACOM, para extraer los datos pero
 
 
 
-- Proceso de ETL (Extracción, limpieza y carga de datos)se realiza la extracción y limpieza de los datos de los dos dataset obtenidos, a través de la utilización de Pandas y Jupyter Netbook. ETL Eliminando nulos, duplicados, con transformaciones necesarias como cambio en los tipos de datos, eliminación de columnas y unión de las tablas.
+- Proceso de ETL (Extracción, limpieza y carga de datos)se realiza la extracción y limpieza de los datos de los  dataset obtenidos, a través de la utilización de Pandas y Jupyter Netbook. ETL Eliminando nulos, duplicados, con transformaciones necesarias como cambio en los tipos de datos, eliminación de columnas y unión de las tablas.
 
 - Proceso de EDA (Análisis Exploratorio de los datos)una vez que los datos están limpios, es momento de revisar las relaciones que existen entre las variables numéricas y categóricas de los datasets, encontrar si hay presencia de valores atípicos o anomalías (que no tienen que ser errores necesariamente), y se verificó si hay algún patrón o conocimiento que sirva en un análisis posterior.
 - Datos para el EDA [Data](https://github.com/rafaelalvarez702/Telecomunicaciones/tree/main/Datos_EDA),
@@ -66,6 +66,11 @@ Propuestas de KPI
 incremento de 2% trimestral cada 100 hogares:este KPI me permitiría ver cómo ha cambiado la penetración de internet en los hogares a lo largo del tiempo.
 
 Irecimiento de tecnologias: Este KPI mide el crecimiento en el uso de diferentes tecnologías de internet en Argentina, esto me permitiría ver cómo está evolucionando la infraestructura de internet en la región.
+
+# Conclusion #
+
+Como pudimos apreciar el internet en argentina mantiene un crecimiento sostenido a lo largo del tiempo, aunque notamos que existen algunos retos a superar como la brecha existente en la penetracion del internet en las zonas urbanas y las rurales, lo cual genera una oportunidad de negocio. Existen algunos factores que no fueron analisados pero se recomienda la revision de estoa ya que el sector telecomunicaciones tiene una serie de regulaciones que deben ser analisadas a profundidad, otro factor es la competencia en Argentina existen almenos 1700 prestadores de serrvicios de distintos tamaños.
+Lo importante a resaltar es que en argentina existe cada vez mas necesidad de accesos a internet con velocidades altas y tecnologias mas eficiente.
 
 
 
