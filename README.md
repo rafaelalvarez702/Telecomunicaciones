@@ -4,6 +4,9 @@
 
 
 
+# Dashboard #
+  Presentacion del dashboard
+ [Enlace](https://www.novypro.com/project/internet-argentina)
 
 ## Introducción⚠️🚧##
 
@@ -73,9 +76,6 @@ Como pudimos apreciar el internet en argentina mantiene un crecimiento sostenido
 Lo importante a resaltar es que en argentina existe cada vez mas necesidad de accesos a internet con velocidades altas y tecnologias mas eficiente.
 
 
-# Dashboard #
-
- [Enlace](https://www.novypro.com/project/internet-argentina)
 
 TECNOLOGIAS
 
