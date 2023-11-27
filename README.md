@@ -6,7 +6,7 @@
 
 # Dashboard #
   Presentacion del dashboard
- [Enlace](https://www.novypro.com/project/internet-argentina)
+ [Enlace](https://www.novypro.com/project/internet-argentina-1)
 
 ## Introducción⚠️🚧##
 
